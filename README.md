@@ -70,5 +70,12 @@ Examples: Performance, security, scalability, usability, reliability.
 - Scalability: The system should be able to scale horizontally to handle increased traffic.
 - Usability: The application should have an intuitive UI/UX, making it easy for users to navigate and perform tasks.
 - Reliability: The system should have an uptime of 99.9% and recover quickly from any failures.
+## Use Case Diagrams ##
+- They are a visual representation of interactions between users and the system.
+- Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+
+**Benefits of Use Case Diagrams:**
+- Provide a clear visual representation of system functionalities.
+- Help in identifying and organizing system requirements.
 
 

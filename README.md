@@ -77,5 +77,6 @@ Examples: Performance, security, scalability, usability, reliability.
 **Benefits of Use Case Diagrams:**
 - Provide a clear visual representation of system functionalities.
 - Help in identifying and organizing system requirements.
+![alx-booking-uc](https://github.com/user-attachments/assets/821d8c06-a8f2-446f-9e02-c677fb3f2e33)
 
 
